@@ -12,6 +12,6 @@ Programmer-Devarsh Parekh(10th std 26/2/25
     3.(git add . ),all file get add(staged)
     4.Push commond- upload commit to local repo(laptop) to remote repo
     (github)= git push origin main <br>
-    here origin is repo in github we can name any other also.main is branch in line of code.
-    5.Init command-Used to create a new git repo.<br>
+    here origin is repo in github we can name any other also.main is branch in line of code.<br>
+    5.Init command-Used to create a new git repo. <br>
     git init, Git remote add origin -link-
