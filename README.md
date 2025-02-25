@@ -9,7 +9,7 @@ Programmer-Devarsh Parekh(10th std 26/2/25
     <br>
     2.changed repo is equal to modified like readme.<br>
     this change --add=(staged)--commit(unchanged)<br>
-    3.(git add . ),all file get add(staged)
+    3.(git add . ),all file get add(staged)<br>
     4.Push commond- upload commit to local repo(laptop) to remote repo
     (github)= git push origin main <br>
     here origin is repo in github we can name any other also.main is branch in line of code.<br>
